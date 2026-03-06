@@ -12,4 +12,4 @@ Este projeto foi desenvolvido como parte de uma análise estratégica do mercado
 1. Baixe o arquivo `.pbix` deste repositório.
 2. Abra-o utilizando o **Power BI Desktop**.
 
-<img width="1913" height="974" alt="image" src="https://github.com/user-attachments/assets/064bc108-2b34-4f78-96d6-bfa4167e7c6c" />
+<img width="1290" height="721" alt="image" src="https://github.com/user-attachments/assets/47a5a69a-9a73-487e-a64c-020f5238c53b" />
