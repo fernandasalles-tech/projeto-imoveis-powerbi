@@ -13,7 +13,3 @@ Este projeto foi desenvolvido como parte de uma análise estratégica do mercado
 2. Abra-o utilizando o **Power BI Desktop**.
 
 <img width="1290" height="721" alt="image" src="https://github.com/user-attachments/assets/47a5a69a-9a73-487e-a64c-020f5238c53b" />
-
-<img width="250" height="96" alt="image" src="https://github.com/user-attachments/assets/e9c043ad-8f12-4a25-88ce-9df475e1dfd4" />
-
-<img width="256" height="131" alt="image" src="https://github.com/user-attachments/assets/9bc4b7c2-23ad-4075-9efb-edd5a6abef01" />
