@@ -23,10 +23,12 @@ Visão Geral: Dashboard consolidado em métricas de preços e distribuição de 
 ---
 Interatividade: Filtros dinâmicos que permitem a análise específica por perfil de imóvel e região.
 
-
+---
 <img width="1055" height="418" alt="image" src="https://github.com/user-attachments/assets/bf1ac6a0-5d62-4525-911a-94ea2191d02f" />
+---
 Ánalise Espacial: Mapeamento de calor e distribuição geográfica para identificar oportunidades em bairros estratégicos.
 
-
+---
 <img width="1717" height="625" alt="image" src="https://github.com/user-attachments/assets/d936b18d-f024-4080-9d87-6f266486b05d" />
+---
 ETL e Tratamento de Dados: Demonstração da limpeza, tipagem e preparação da base de dados realizadas no Power Query.
