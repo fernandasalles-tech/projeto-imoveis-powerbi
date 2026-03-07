@@ -12,6 +12,8 @@ Este projeto foi desenvolvido como parte de uma análise estratégica do mercado
 1. Baixe o arquivo `.pbix` deste repositório.
 2. Abra-o utilizando o **Power BI Desktop**.
 
+   
+
 <img width="1288" height="719" alt="image" src="https://github.com/user-attachments/assets/d264cf03-9034-4376-b424-d5e027989ff1" />
 ---
 Visão Geral: Dashboard consolidado em métricas de preços e distribuição de imóveis em SP.
