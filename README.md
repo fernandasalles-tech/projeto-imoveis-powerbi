@@ -13,10 +13,12 @@ Este projeto foi desenvolvido como parte de uma análise estratégica do mercado
 2. Abra-o utilizando o **Power BI Desktop**.
 
 <img width="1288" height="719" alt="image" src="https://github.com/user-attachments/assets/d264cf03-9034-4376-b424-d5e027989ff1" />
+---
 Visão Geral: Dashboard consolidado em métricas de preços e distribuição de imóveis em SP.
 
-
+---
 <img width="1331" height="743" alt="image" src="https://github.com/user-attachments/assets/506f8b62-caf7-40fd-9bcc-d6049a3cef0b" />
+---
 Interatividade: Filtros dinâmicos que permitem a análise específica por perfil de imóvel e região.
 
 
