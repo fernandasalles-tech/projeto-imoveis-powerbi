@@ -24,11 +24,3 @@ Este projeto foi desenvolvido para análise estratégica do mercado imobiliário
 
 ---
 Visão Geral: Dashboard consolidado em métricas de preços e distribuição de imóveis em SP.
-
-
-
-
----
-<img width="1717" height="625" alt="image" src="https://github.com/user-attachments/assets/d936b18d-f024-4080-9d87-6f266486b05d" />
----
-ETL e Tratamento de Dados: Demonstração da limpeza, tipagem e preparação da base de dados realizadas no Power Query.
