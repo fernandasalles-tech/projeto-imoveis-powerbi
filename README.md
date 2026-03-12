@@ -1,27 +1,30 @@
-# 📊 Dashboard de Análise Imobiliária - São Paulo
+# 📊 Dashboard de Inteligência Imobiliária - São Paulo
 
-Este projeto foi desenvolvido como parte de uma análise estratégica do mercado imobiliário paulistano.
+## 📝 Sobre o Projeto
+Este projeto foi desenvolvido para análise estratégica do mercado imobiliário na cidade de São Paulo. O objetivo é permitir que investidores e locatários identifiquem oportunidades de mercado através de uma análise visual, geográfica e técnica.
 
-## 🛠️ O que foi feito:
-- **Tratamento de Dados (ETL):** Limpeza e organização da base de dados usando Power Query.
-- **Geolocalização:** Tratamento de endereços para visualização precisa no mapa de São Paulo.
-- **KPIs Estratégicos:** Criação de métricas para Média de Preço, Metragem e Dormitórios.
-- **UX/UI:** Desenvolvimento de navegação entre páginas e filtros interativos (Bairro, Valor, Tipo de Imóvel).
+## 🚀 Funcionalidades Principais (ACs)
+- **AC 1 - Geolocalização Dinâmica:** Mapeamento interativo de ofertas utilizando integração com Bing Maps.
+- **AC 2 - Tooltips de Relatório:** Visualização de detalhes técnicos e composição regional através de pop-ups personalizados (On-Hover).
+- **AC 3 - Segmentação de Precisão:** Painel de filtros avançados para metragem, dormitórios e valores, com layout otimizado e funcionalidade de Reset.
+- **AC 4 - Navegação Drill-through:** Sistema de navegação profunda que permite sair da visão macro e analisar a dispersão (Preço x M²) de bairros específicos.
 
-## 🚀 Como visualizar:
-1. Baixe o arquivo `.pbix` deste repositório.
-2. Abra-o utilizando o **Power BI Desktop**.
+## 🛠️ Tecnologias Utilizadas
+* **Power BI:** Construção dos dashboards e visuais.
+* **Power Query (ETL):** Limpeza, normalização e tratamento de dados brutos.
+* **DAX:** Criação de métricas de inteligência de negócio.
+* **Trello:** Gestão ágil do projeto e documentação de etapas.
+
+---
+*Projeto desenvolvido para fins acadêmicos e demonstração de competências em análise de dados.*
 
    
 
-<img width="1288" height="719" alt="image" src="https://github.com/user-attachments/assets/d264cf03-9034-4376-b424-d5e027989ff1" />
+<img width="1326" height="795" alt="image" src="https://github.com/user-attachments/assets/907e0018-5253-44da-99b2-ea7712601e32" />
+
 ---
 Visão Geral: Dashboard consolidado em métricas de preços e distribuição de imóveis em SP.
 
----
-<img width="1331" height="743" alt="image" src="https://github.com/user-attachments/assets/506f8b62-caf7-40fd-9bcc-d6049a3cef0b" />
----
-Interatividade: Filtros dinâmicos que permitem a análise específica por perfil de imóvel e região.
 
 ---
 <img width="1055" height="418" alt="image" src="https://github.com/user-attachments/assets/bf1ac6a0-5d62-4525-911a-94ea2191d02f" />
