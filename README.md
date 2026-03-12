@@ -19,6 +19,7 @@ Este projeto foi desenvolvido para análise estratégica do mercado imobiliário
 
 * **[Clique aqui para baixar o arquivo do Power BI (.pbix)](https://github.com/fernandasalles-tech/projeto-imoveis-powerbi/blob/main/Dashboard_Mercado_imobiliario_SP.pbix)**
 * **[Clique aqui para visualizar o quadro de gestão no Trello](https://trello.com/b/BnpttytH/projeto-intgrador-bi-imobiliario)**
+* **[Fonte dos Dados Originais](https://www.kaggle.com/datasets/renatosn/sao-paulo-housing-prices)**
 
 > **Nota:** O mapa interativo utiliza o motor Bing Maps, por isso recomenda-se a visualização através do Power BI Desktop para garantir a total funcionalidade dos recursos de geolocalização.
 
