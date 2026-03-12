@@ -17,8 +17,8 @@ Este projeto foi desenvolvido para análise estratégica do mercado imobiliário
 
 * ## 🔗 Acesso ao Projeto
 
-* **[Clique aqui para baixar o arquivo do Power BI (.pbix)]([LINK_DO_ARQUIVO_QUE_VOCE_COPIOU](https://github.com/fernandasalles-tech/projeto-imoveis-powerbi/blob/main/Dashboard_Mercado_imobiliario_SP.pbix))**
-* **[Clique aqui para visualizar o quadro de gestão no Trello]((https://trello.com/b/BnpttytH/projeto-intgrador-bi-imobiliario))**
+* **[Clique aqui para baixar o arquivo do Power BI (.pbix)](https://github.com/fernandasalles-tech/projeto-imoveis-powerbi/blob/main/Dashboard_Mercado_imobiliario_SP.pbix)**
+* **[Clique aqui para visualizar o quadro de gestão no Trello](https://trello.com/b/BnpttytH/projeto-intgrador-bi-imobiliario)**
 
 > **Nota:** O mapa interativo utiliza o motor Bing Maps, por isso recomenda-se a visualização através do Power BI Desktop para garantir a total funcionalidade dos recursos de geolocalização.
 
