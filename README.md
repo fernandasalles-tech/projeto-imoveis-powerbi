@@ -22,7 +22,9 @@ Este projeto foi desenvolvido para análise estratégica do mercado imobiliário
 * **[Fonte dos Dados Originais](https://www.kaggle.com/datasets/renatosn/sao-paulo-housing-prices)**
 
 > **Nota:** O mapa interativo utiliza o motor Bing Maps, por isso recomenda-se a visualização através do Power BI Desktop para garantir a total funcionalidade dos recursos de geolocalização.
-
+---
+### 🔄 Atualização de Projeto (AC1)
+* **Interatividade Avançada:** Implementada a funcionalidade de **Filtro Cruzado (Cross-filtering)**. Agora, ao interagir diretamente com os pontos de geolocalização no mapa, todos os indicadores e gráficos do dashboard são filtrados automaticamente para exibir os dados específicos da região selecionada.
 
 ---
 *Projeto desenvolvido para fins acadêmicos e demonstração de competências em análise de dados.*
