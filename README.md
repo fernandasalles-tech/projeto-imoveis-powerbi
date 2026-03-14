@@ -4,7 +4,7 @@
 Este projeto foi desenvolvido para análise estratégica do mercado imobiliário na cidade de São Paulo. O objetivo é permitir que investidores e locatários identifiquem oportunidades de mercado através de uma análise visual, geográfica e técnica.
 
 ## 🚀 Funcionalidades Principais (ACs)
-- **AC 1 - Geolocalização Dinâmica:** Mapeamento interativo de ofertas utilizando integração com Bing Maps.
+- **AC 1 - Geolocalização Dinâmica: Mapeamento interativo de ofertas com integração Bing Maps e inteligência de filtragem cruzada (Cross-filtering), permitindo que a seleção de pontos geográficos atualize instantaneamente os indicadores de todo o dashboard.
 - **AC 2 - Tooltips de Relatório:** Visualização de detalhes técnicos e composição regional através de pop-ups personalizados (On-Hover).
 - **AC 3 - Segmentação de Precisão:** Painel de filtros avançados para metragem, dormitórios e valores, com layout otimizado e funcionalidade de Reset.
 - **AC 4 - Navegação Drill-through:** Sistema de navegação profunda que permite sair da visão macro e analisar a dispersão (Preço x M²) de bairros específicos.
