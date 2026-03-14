@@ -31,7 +31,6 @@ Este projeto foi desenvolvido para análise estratégica do mercado imobiliário
 
    
 
-<img width="1326" height="795" alt="image" src="https://github.com/user-attachments/assets/907e0018-5253-44da-99b2-ea7712601e32" />
 
 ---
 Visão Geral: Dashboard consolidado em métricas de preços e distribuição de imóveis em SP.
