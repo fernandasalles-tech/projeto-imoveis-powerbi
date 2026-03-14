@@ -29,7 +29,7 @@ Este projeto foi desenvolvido para análise estratégica do mercado imobiliário
 ---
 *Projeto desenvolvido para fins acadêmicos e demonstração de competências em análise de dados.*
 
-
+<img width="1427" height="792" alt="Image" src="https://github.com/user-attachments/assets/acbdba5f-3682-4b15-b480-84cb875a2388" />
 
 
 ---
