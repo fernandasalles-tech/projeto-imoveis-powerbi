@@ -13,6 +13,11 @@ Este projeto foi desenvolvido para análise estratégica do mercado imobiliário
 ​Limpeza de Tipos: Conversão e correção de formatos de moeda, áreas e quantidades de quartos para garantir cálculos precisos no Power BI.
 ​Sufixo Geográfico: Criação de colunas auxiliares para restringir a análise à Região Metropolitana de São Paulo.
 ​Portabilidade: Exportação em formato CSV (UTF-8) com cabeçalhos na primeira linha, permitindo a utilização dos dados em outras ferramentas como Python ou SQL.
+​📍 Nota sobre a Visualização de Mapa (Bing Maps)
+​Caso o visual de mapa não carregue corretamente durante a correção, informo que:
+​Lógica de Geolocalização: Todos os dados foram devidamente tratados e categorizados (Endereço, Bairro e Cidade) para garantir a plotagem.
+​Limitação de Conta: Em algumas contas institucionais, o Power BI pode bloquear o acesso ao Bing Maps por políticas de segurança de locatário (tenant).
+​Validação: No vídeo de demonstração da AC1, é possível visualizar o mapa funcionando perfeitamente em ambiente de desenvolvimento, confirmando que a estrutura de dados está correta.
 - **AC 2 - Inteligência de Negócio e DAX: Criação de camadas de cálculos avançados utilizando Linguagem DAX (Medidas de Média de Preço, Valor por M² e KPIs de Performance). Inclui o uso de Tooltips (Dicas de Ferramenta) personalizadas para detalhamento de dados ao passar o rato.
 - **AC 3 - Navegação e UX: Estruturação de um Dashboard App com menu lateral de filtros alinhado e botões de navegação entre páginas ("Panorama Geral" e "Inteligência de Mercado"). Inclui botão de Reset de Filtros para otimizar a experiência do utilizador.
 - **AC 4 - Navegação Drill-through:** Sistema de navegação profunda que permite sair da visão macro e analisar a dispersão (Preço x M²) de bairros específicos.
