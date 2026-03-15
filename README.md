@@ -13,6 +13,7 @@ Este projeto foi desenvolvido para análise estratégica do mercado imobiliário
 ​Limpeza de Tipos: Conversão e correção de formatos de moeda, áreas e quantidades de quartos para garantir cálculos precisos no Power BI.
 ​Sufixo Geográfico: Criação de colunas auxiliares para restringir a análise à Região Metropolitana de São Paulo.
 ​Portabilidade: Exportação em formato CSV (UTF-8) com cabeçalhos na primeira linha, permitindo a utilização dos dados em outras ferramentas como Python ou SQL.
+
 ​📍 Nota sobre a Visualização de Mapa (Bing Maps)
 ​Caso o visual de mapa não carregue corretamente durante a correção, informo que:
 ​Lógica de Geolocalização: Todos os dados foram devidamente tratados e categorizados (Endereço, Bairro e Cidade) para garantir a plotagem.
