@@ -5,6 +5,14 @@ Este projeto foi desenvolvido para análise estratégica do mercado imobiliário
 
 ## 🚀 Funcionalidades Principais (ACs)
 - **AC 1 - Geolocalização Dinâmica: Mapeamento interativo de ofertas com integração Bing Maps e inteligência de filtragem cruzada (Cross-filtering), permitindo que a seleção de pontos geográficos atualize instantaneamente os indicadores de todo o dashboard.
+
+​📂 Base de Dados Tratada (Dataset)
+​Para esta entrega, foi disponibilizado o arquivo dataset_imoveis_sp_limpo.csv (ou o nome que você deu), que é o resultado do processo de ETL (Extração, Transformação e Limpeza).
+​Principais tratamentos realizados:
+​Padronização Geográfica: Ajuste de logradouros para garantir a plotagem correta no Bing Maps (evitando conflitos de nomes de ruas fora de São Paulo).
+​Limpeza de Tipos: Conversão e correção de formatos de moeda, áreas e quantidades de quartos para garantir cálculos precisos no Power BI.
+​Sufixo Geográfico: Criação de colunas auxiliares para restringir a análise à Região Metropolitana de São Paulo.
+​Portabilidade: Exportação em formato CSV (UTF-8) com cabeçalhos na primeira linha, permitindo a utilização dos dados em outras ferramentas como Python ou SQL.
 - **AC 2 - Inteligência de Negócio e DAX: Criação de camadas de cálculos avançados utilizando Linguagem DAX (Medidas de Média de Preço, Valor por M² e KPIs de Performance). Inclui o uso de Tooltips (Dicas de Ferramenta) personalizadas para detalhamento de dados ao passar o rato.
 - **Navegação e UX: Estruturação de um Dashboard App com menu lateral de filtros alinhado e botões de navegação entre páginas ("Panorama Geral" e "Inteligência de Mercado"). Inclui botão de Reset de Filtros para otimizar a experiência do utilizador.
 - **AC 4 - Navegação Drill-through:** Sistema de navegação profunda que permite sair da visão macro e analisar a dispersão (Preço x M²) de bairros específicos.
