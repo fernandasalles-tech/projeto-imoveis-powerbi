@@ -14,7 +14,7 @@ Este projeto foi desenvolvido para análise estratégica do mercado imobiliário
 ​Sufixo Geográfico: Criação de colunas auxiliares para restringir a análise à Região Metropolitana de São Paulo.
 ​Portabilidade: Exportação em formato CSV (UTF-8) com cabeçalhos na primeira linha, permitindo a utilização dos dados em outras ferramentas como Python ou SQL.
 - **AC 2 - Inteligência de Negócio e DAX: Criação de camadas de cálculos avançados utilizando Linguagem DAX (Medidas de Média de Preço, Valor por M² e KPIs de Performance). Inclui o uso de Tooltips (Dicas de Ferramenta) personalizadas para detalhamento de dados ao passar o rato.
-- **Navegação e UX: Estruturação de um Dashboard App com menu lateral de filtros alinhado e botões de navegação entre páginas ("Panorama Geral" e "Inteligência de Mercado"). Inclui botão de Reset de Filtros para otimizar a experiência do utilizador.
+- **AC 3 - Navegação e UX: Estruturação de um Dashboard App com menu lateral de filtros alinhado e botões de navegação entre páginas ("Panorama Geral" e "Inteligência de Mercado"). Inclui botão de Reset de Filtros para otimizar a experiência do utilizador.
 - **AC 4 - Navegação Drill-through:** Sistema de navegação profunda que permite sair da visão macro e analisar a dispersão (Preço x M²) de bairros específicos.
 
 ## 🛠️ Tecnologias Utilizadas
