@@ -73,7 +73,8 @@ Estruturação de um Dashboard App com menu lateral de filtros alinhado e botõe
 ---
 *Projeto desenvolvido para fins acadêmicos e demonstração de competências em análise de dados.*
 
-<img width="1427" height="792" alt="Image" src="https://github.com/user-attachments/assets/acbdba5f-3682-4b15-b480-84cb875a2388" />
+<img width="1288" height="728" alt="image" src="https://github.com/user-attachments/assets/4ab6bb03-cd15-44b1-8ba5-b5427a98b54f" />
+
 
 
 ---
