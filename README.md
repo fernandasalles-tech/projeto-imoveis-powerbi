@@ -5,9 +5,11 @@ Este projeto foi desenvolvido para análise estratégica do mercado imobiliário
 
 ## 🚀 Funcionalidades Principais (ACs)
 
-- **AC 1 - Geolocalização Dinâmica: Mapeamento interativo de ofertas com integração Bing Maps e inteligência de filtragem cruzada (Cross-filtering), permitindo que a seleção de pontos geográficos atualize instantaneamente os indicadores de todo o dashboard.
+- **AC 1 - Estruturação de Carga e Dados
 
-​📂 Base de Dados Tratada (Dataset)
+Geolocalização Dinâmica: Mapeamento interativo de ofertas com integração Bing Maps e inteligência de filtragem cruzada (Cross-filtering), permitindo que a seleção de pontos geográficos atualize instantaneamente os indicadores de todo o dashboard.
+
+​Base de Dados Tratada (Dataset)
 ​Para esta entrega, foi disponibilizado o arquivo dataset_imoveis_sp_limpo.csv (ou o nome que você deu), que é o resultado do processo de ETL (Extração, Transformação e Limpeza).
 
 ​Principais tratamentos realizados:
@@ -29,7 +31,7 @@ Este projeto foi desenvolvido para análise estratégica do mercado imobiliário
 
 ​Validação: No vídeo de demonstração da AC1, é possível visualizar o mapa funcionando perfeitamente em ambiente de desenvolvimento, confirmando que a estrutura de dados está correta. 
 
-- **AC 2 - Navegação e UX: 
+- **AC 2 - Navegação e UX
 
 Estruturação de um Dashboard App com menu lateral de filtros alinhado e botões de navegação entre páginas ("Panorama Geral" e "Inteligência de Mercado"). Inclui botão de Reset de Filtros para otimizar a experiência do utilizador.
 
@@ -44,7 +46,6 @@ Estruturação de um Dashboard App com menu lateral de filtros alinhado e botõe
 ​Linha de Tendência Dinâmica: Uso de regressão linear para estabelecer o "preço justo" médio, auxiliando na identificação de outliers (oportunidades de investimento).
 
 ​Filtros de Contexto Real: Segmentação por tipologia de imóvel e bairros, permitindo que as médias de mercado sejam calculadas apenas entre imóveis com características similares. 
-
 
 - **AC 4 - Módulo de IA: Influenciadores de Valor
 
