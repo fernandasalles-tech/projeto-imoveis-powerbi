@@ -4,6 +4,7 @@
 Este projeto foi desenvolvido para análise estratégica do mercado imobiliário na cidade de São Paulo. O objetivo é permitir que investidores e locatários identifiquem oportunidades de mercado através de uma análise visual, geográfica e técnica.
 
 ## 🚀 Funcionalidades Principais (ACs)
+
 - **AC 1 - Geolocalização Dinâmica: Mapeamento interativo de ofertas com integração Bing Maps e inteligência de filtragem cruzada (Cross-filtering), permitindo que a seleção de pontos geográficos atualize instantaneamente os indicadores de todo o dashboard.
 
 ​📂 Base de Dados Tratada (Dataset)
@@ -21,11 +22,33 @@ Este projeto foi desenvolvido para análise estratégica do mercado imobiliário
 
 ​Limitação de Conta: Em algumas contas institucionais, o Power BI pode bloquear o acesso ao Bing Maps por políticas de segurança de locatário (tenant).
 
-​Validação: No vídeo de demonstração da AC1, é possível visualizar o mapa funcionando perfeitamente em ambiente de desenvolvimento, confirmando que a estrutura de dados está correta.
+​Validação: No vídeo de demonstração da AC1, é possível visualizar o mapa funcionando perfeitamente em ambiente de desenvolvimento, confirmando que a estrutura de dados está correta. 
 
-- **AC 2 - Inteligência de Negócio e DAX: Criação de camadas de cálculos avançados utilizando Linguagem DAX (Medidas de Média de Preço, Valor por M² e KPIs de Performance). Inclui o uso de Tooltips (Dicas de Ferramenta) personalizadas para detalhamento de dados ao passar o rato.
-- **AC 3 - Navegação e UX: Estruturação de um Dashboard App com menu lateral de filtros alinhado e botões de navegação entre páginas ("Panorama Geral" e "Inteligência de Mercado"). Inclui botão de Reset de Filtros para otimizar a experiência do utilizador.
-- **AC 4 - Navegação Drill-through:** Sistema de navegação profunda que permite sair da visão macro e analisar a dispersão (Preço x M²) de bairros específicos.
+- **AC 2 - Navegação e UX: Estruturação de um Dashboard App com menu lateral de filtros alinhado e botões de navegação entre páginas ("Panorama Geral" e "Inteligência de Mercado"). Inclui botão de Reset de Filtros para otimizar a experiência do utilizador.
+
+- **AC 3 Inteligência de Mercado & Análise Comparativa
+​Nesta etapa, o foco foi transformar dados brutos em ferramentas de comparação estratégica (benchmarking) para o mercado imobiliário.
+
+​Destaques do Projeto:
+
+​Análise de Dispersão Avançada: Implementação de gráficos correlacionando Preço vs. Metragem (m²) para identificação visual de ativos subvalorizados ou superfaturados.
+
+​Linha de Tendência Dinâmica: Uso de regressão linear para estabelecer o "preço justo" médio, auxiliando na identificação de outliers (oportunidades de investimento).
+
+​Filtros de Contexto Real: Segmentação por tipologia de imóvel e bairros, permitindo que as médias de mercado sejam calculadas apenas entre imóveis com características similares. 
+
+
+- **AC 4 - Módulo de IA: Influenciadores de Valor
+
+​A entrega final integra o motor de Inteligência Artificial do Power BI para realizar análises preditivas e diagnósticas sobre o comportamento dos preços.
+
+​Destaques do Projeto:
+
+​Machine Learning Aplicado: Utilização do visual de Key Influencers para determinar o peso estatístico de cada variável (quartos, vagas, área) na composição do valor do aluguel.
+
+​Segmentação Automática por IA: O algoritmo identifica automaticamente os grupos de imóveis que apresentam a maior probabilidade de alta nos preços, baseando-se em padrões históricos.
+
+​Data Storytelling & UX: Refinamento da interface para o usuário final, traduzindo métricas complexas de IA em informações claras e diretas através de balões de informação (tooltips) personalizados.
 
 ## 🛠️ Tecnologias Utilizadas
 * **Power BI:** Construção dos dashboards e visuais.
