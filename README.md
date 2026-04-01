@@ -9,10 +9,15 @@ Este projeto foi desenvolvido para análise estratégica do mercado imobiliário
 
 ​📂 Base de Dados Tratada (Dataset)
 ​Para esta entrega, foi disponibilizado o arquivo dataset_imoveis_sp_limpo.csv (ou o nome que você deu), que é o resultado do processo de ETL (Extração, Transformação e Limpeza).
+
 ​Principais tratamentos realizados:
+
 ​Padronização Geográfica: Ajuste de logradouros para garantir a plotagem correta no Bing Maps (evitando conflitos de nomes de ruas fora de São Paulo).
+
 ​Limpeza de Tipos: Conversão e correção de formatos de moeda, áreas e quantidades de quartos para garantir cálculos precisos no Power BI.
+
 ​Sufixo Geográfico: Criação de colunas auxiliares para restringir a análise à Região Metropolitana de São Paulo.
+
 ​Portabilidade: Exportação em formato CSV (UTF-8) com cabeçalhos na primeira linha, permitindo a utilização dos dados em outras ferramentas como Python ou SQL.
 
 ​📍 Nota sobre a Visualização de Mapa (Bing Maps)
