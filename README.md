@@ -24,7 +24,9 @@ Este projeto foi desenvolvido para análise estratégica do mercado imobiliário
 
 ​Validação: No vídeo de demonstração da AC1, é possível visualizar o mapa funcionando perfeitamente em ambiente de desenvolvimento, confirmando que a estrutura de dados está correta. 
 
-- **AC 2 - Navegação e UX: Estruturação de um Dashboard App com menu lateral de filtros alinhado e botões de navegação entre páginas ("Panorama Geral" e "Inteligência de Mercado"). Inclui botão de Reset de Filtros para otimizar a experiência do utilizador.
+- **AC 2 - Navegação e UX: 
+
+Estruturação de um Dashboard App com menu lateral de filtros alinhado e botões de navegação entre páginas ("Panorama Geral" e "Inteligência de Mercado"). Inclui botão de Reset de Filtros para otimizar a experiência do utilizador.
 
 - **AC 3 Inteligência de Mercado & Análise Comparativa
 ​Nesta etapa, o foco foi transformar dados brutos em ferramentas de comparação estratégica (benchmarking) para o mercado imobiliário.
