@@ -67,7 +67,7 @@ Estruturação de um Dashboard App com menu lateral de filtros alinhado e botõe
 
 * ## 🔗 Acesso ao Projeto
 
-* **[Clique aqui para baixar o arquivo do Power BI (.pbix)](<img width="1288" height="728" alt="image" src="https://github.com/user-attachments/assets/7b413c97-a201-4961-9140-deea95a71b62" />
+* **[Clique aqui para baixar o arquivo do Power BI (.pbix)](https://app.powerbi.com/groups/me/reports/38cc7400-6266-471a-8fbc-c2136b0b9d9c/2634d510927e1d205c10?experience=power-bi
 )**
 * **[Clique aqui para visualizar o quadro de gestão no Trello](https://trello.com/b/BnpttytH/projeto-intgrador-bi-imobiliario)**
 * **[Fonte dos Dados Originais](https://www.kaggle.com/datasets/renatosn/sao-paulo-housing-prices)**
