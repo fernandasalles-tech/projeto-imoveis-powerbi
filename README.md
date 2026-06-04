@@ -47,7 +47,7 @@ Estruturação de um Dashboard App com menu lateral de filtros alinhado e botõe
 
 ​Filtros de Contexto Real: Segmentação por tipologia de imóvel e bairros, permitindo que as médias de mercado sejam calculadas apenas entre imóveis com características similares. 
 
-- **AC 4 - Módulo de IA: Influenciadores de Valor
+- **AC 4 - Módulo de IA: Influenciadores de Mercado
 
 ​A entrega final integra o motor de Inteligência Artificial do Power BI para realizar análises preditivas e diagnósticas sobre o comportamento dos preços.
 
